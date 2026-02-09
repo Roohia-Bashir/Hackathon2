@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+python-jose[cryptography]
+argon2-cffi
+pydantic[email]
+pydantic-settings
+alembic
+python-multipart
+openai-agents
+openai
+httpx
+pyjwt
+openai-agents[litellm]
